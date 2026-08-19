@@ -1,0 +1,2 @@
+"""Security Daily backend package."""
+
