@@ -139,7 +139,7 @@ TIMEZONE=Asia/Seoul
 Frontend `.env.local`:
 
 ```env
-BACKEND_API_BASE_URL=http://localhost:8000
+BACKEND_API_BASE_URL=http://localhost:8010
 ```
 
 ## PostgreSQL 준비
@@ -175,7 +175,7 @@ Backend:
 
 ```powershell
 cd backend
-uv run uvicorn security_daily.api.main:app --reload --port 8000
+uv run uvicorn security_daily.api.main:app --reload --port 8010
 ```
 
 Frontend:

@@ -134,7 +134,7 @@ Windows PC
 
 ```text
 Next.js      : localhost:3000
-FastAPI      : localhost:8000
+FastAPI      : localhost:8010
 PostgreSQL   : localhost:5432
 Ollama       : localhost:11434
 ```
